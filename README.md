@@ -1,3 +1,9 @@
+<div align = "center">
+         <img src="/gifs/csguy.gif" width="200" height="200" />
+         <img src="/gifs/hello.gif" width="200" height="200" />
+         <img src="/gifs/csnotguy.gif" width="200" height="200" />
+</div>
+
 # 👋 Hi, I'm Farel!
 
 I'm an Informatics student at ITENAS 👨‍💻  
