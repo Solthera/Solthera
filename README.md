@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Farel!
 
-<!--
-**Farelithium/Farelithium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics student at ITENAS 👨‍💻  
+Passionate about AI 🤖, Web Dev 🌐, and always learning something new.  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 💻 JavaScript | Node.js | React.js
+- 📊 Python | Pandas | NumPy
+- 🛠️ Git | GitHub | Linux (Ubuntu gang 😎)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram)](https://instagram.com/yourusername)
+
+---
+
+⭐ Fun Fact: I'm currently working on a cool portfolio site! Stay tuned 😏
