@@ -15,8 +15,8 @@ Passionate about AI 🤖, Web Dev 🌐, and always learning something new.
 - 🛠️ Git | GitHub | Linux (Ubuntu gang 😎)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-farel-firdaus-b7234530a)  
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram)](https://www.instagram.com/farellfrs/)
+[![LinkedIn]()  
+[![Instagram]()
 
 ---
 
