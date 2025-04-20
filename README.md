@@ -13,11 +13,7 @@ Passionate about AI 🤖, Web Dev 🌐, and always learning something new.
 - 💻 JavaScript | Node.js | React.js
 - 📊 Python | Pandas | NumPy
 - 🛠️ Git | GitHub | Linux (Ubuntu gang 😎)
-
-## 📫 Let's Connect!
-[![LinkedIn]()  
-[![Instagram]()
-
+  
 ---
 
 ⭐ Fun Fact: I'm currently working on a cool portfolio site! Stay tuned 😏
