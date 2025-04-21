@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Farel!
 
 I'm an Informatics student at ITENAS 👨‍💻  
-Passionate about AI 🤖, Web Dev 🌐, and always learning something new.  
+Passionate about AI 🤖, Blockchain, Web Dev 🌐, and always learning something new.  
 
 ## 🚀 Tech Stack
 - 💻 JavaScript | Node.js | React.js
