@@ -6,7 +6,7 @@
 
 <h1 align="center">👋 Yo, I'm Farel!</h1>
 
-<p align="center">
+<p align="start">
   🚀 Full-time student, <br/>
   🎯 Part-time dreamer, <br/>
   ⚡ Lifetime learner
