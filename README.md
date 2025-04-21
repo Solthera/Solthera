@@ -4,7 +4,7 @@
   <img src="/gifs/csnotguy.gif" width="200" height="200" />
 </div>
 
-<h1 align="start">👋 Yo, I'm Farel!</h1>
+<h1 align="start">Yo, I'm Farel! 👋</h1>
 
 <p align="start">
   🚀 Full-time student, <br/>
