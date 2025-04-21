@@ -38,13 +38,6 @@
 
 ---
 
-### 🤓 Fun Facts:
-- 📉 I track dopamine usage (tech is a double-edged sword 😈)
-- 🍜 Love coding with lo-fi + ramen
-- 🧩 Complex problems? Gimme more, I love ‘em (meskipun kadang bikin mumet)
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code.+Sleep.+Debug.+Repeat.;Just+a+guy+who+loves+tech.;Currently+learning+everything+cool+🔥" />
 </p>
