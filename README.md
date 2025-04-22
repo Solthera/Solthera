@@ -9,15 +9,15 @@
 <p align="start">
   🚀 Full-time student, <br/>
   🎯 Part-time dreamer, <br/>
-  ⚡ Lifetime learner
+  ⚡ Lifetime learner.
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 Informatics student at ITENAS  
-- 💥 Passionate about AI, Blockchain, and Web Dev  
-- 💡 Believer in “learn fast, break things, then fix it cooler”  
+- 🎓 Informatics student at ITENAS.
+- 💥 Passionate about AI, Blockchain, and Web Dev.
+- 💡 Believer in “learn fast, break things, then fix it cooler”.
 
 ---
 
@@ -32,9 +32,9 @@
 ---
 
 ### ⚒️ Currently Hammering On:
-- 🚧 Building a personal portfolio (It’s gonna be dope 💻✨)
-- 🔍 Exploring **AI** that doesn’t steal your soul  
-- 🛠️ Cooking a mini hedge fund simulator (stay tuned)  
+- 🚧 Building a personal portfolio (It’s gonna be dope 💻✨).
+- 🔍 Exploring **AI** that doesn’t steal your soul.
+- 🛠️ Cooking a mini hedge fund simulator (stay tuned).
 
 ---
 
