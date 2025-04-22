@@ -15,8 +15,8 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Informatics student at ITENAS.
-- 💥 Passionate about AI, Blockchain, and Web Dev.
+- 🎓 Informatics student at ITENAS,
+- 💥 Passionate about AI, Blockchain, and Web Dev,
 - 💡 Believer in “learn fast, break things, then fix it cooler”.
 
 ---
@@ -32,8 +32,8 @@
 ---
 
 ### ⚒️ Currently Hammering On:
-- 🚧 Building a personal portfolio (It’s gonna be dope 💻✨).
-- 🔍 Exploring **AI** that doesn’t steal your soul.
+- 🚧 Building a personal portfolio (It’s gonna be dope 💻✨),
+- 🔍 Exploring **AI** that doesn’t steal your soul,
 - 🛠️ Cooking a mini hedge fund simulator (stay tuned).
 
 ---
