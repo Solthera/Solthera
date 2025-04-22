@@ -14,7 +14,7 @@
 
 ---
 
-### 🧠 Tentang Gue
+### 🧠 About Me
 - 🎓 Informatics student at ITENAS  
 - 💥 Passionate about AI, Blockchain, and Web Dev  
 - 💡 Believer in “learn fast, break things, then fix it cooler”  
