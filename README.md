@@ -4,43 +4,44 @@
   <img src="/gifs/csnotguy.gif" width="200" height="200" />
 </div>
 
-<h1 align="start">Yo, I'm Farel! 👋</h1>
+<h1 align="start">Yo, I'm just a dev 👾</h1>
 
 <p align="start">
-  🚀 Full-time student, <br/>
-  🎯 Part-time dreamer, <br/>
-  ⚡ Lifetime learner.
+  🕶️ Pseudonymous builder,<br/>
+  🛸 Curious mind on-chain,<br/>
+  🔐 Learning never stops.
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 Informatics student at ITENAS,
-- 💥 Passionate about AI, Blockchain, and Web Dev,
-- 💡 Believer in “learn fast, break things, then fix it cooler”.
+### 🧠 About
+- 👨‍💻 Dev navigating the decentralized web,
+- 🧩 Glued to AI, Blockchain, and backend spells,
+- ⚔️ “Build fast, break faster, fix smarter.”
 
 ---
 
-### 🛠️ Tech Stack I Play With:
+### 🛠️ Toolbox:
 | Domain | Tools |
 |--------|-------|
 | 🌐 Frontend | `JavaScript`, `React.js`, `Tailwind CSS`, `HTML` |
 | 🔧 Backend | `Node.js`, `Laravel`, `PHP`, `MySQL` |
-| 📊 Data & AI | `Python`, `NumPy`, `Pandas` |
-| 🧙 Others | `Solidity`, `Git`, `Linux (Ubuntu gang 😎)` |
+| 🧠 AI / Data | `Python`, `NumPy`, `Pandas` |
+| ⚙️ Others | `Solidity`, `Git`, `Linux (Ubuntu cult 🧪)` |
 
 ---
 
-### ⚒️ Currently Hammering On:
-- 🚧 Building a personal portfolio (It’s gonna be dope 💻✨),
-- 🔍 Exploring **AI** that doesn’t steal your soul,
-- 🛠️ Cooking a mini hedge fund simulator (stay tuned).
+### ⚒️ Cooking:
+- 🎨 Portfolio dApp with anon sauce,
+- 🧠 Ethical AI (if such thing exists),
+- 📈 Simulating a mini hedge fund with code.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Code.+Sleep.+Debug.+Repeat.;Just+a+guy+who+loves+tech.;Currently+learning+everything+cool+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Build.+Ship.+Disrupt.+Repeat.;Anonymous+but+auditable.;0xDev+on+a+mission+⚡" />
 </p>
+
 
 ---
 
