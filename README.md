@@ -24,7 +24,7 @@
 ### 🛠️ Toolbox:
 | Domain | Tools |
 |--------|-------|
-| 🌐 Frontend | `JavaScript`, `React.js`, `Tailwind CSS`, `HTML` |
+| 🌐 Frontend | `HTML`, `React.js`, `Tailwind CSS`, `` |
 | 🔧 Backend | `Node.js`, `Laravel`, `PHP`, `MySQL` |
 | 🧠 AI / Data | `Python`, `NumPy`, `Pandas` |
 | ⚙️ Others | `Solidity`, `Git`, `Linux (Ubuntu cult 🧪)` |
