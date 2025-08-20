@@ -27,8 +27,8 @@ I'm a programmer who enjoys diving into systems and making things work behind th
 ![Ethers.js](https://img.shields.io/badge/ethers.js-%23627EEA.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/foundry-%23FF4500.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Viem](https://img.shields.io/badge/viem-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
