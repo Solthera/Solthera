@@ -8,9 +8,10 @@
 ### 💫 About Me
 Hello!👋<br>
 I'm a programmer who enjoys diving into systems and making things work behind the scenes. Passionate about Web3, backend development, and IoT. <br><br>
-🧠 Always learning & experimenting <br>
-🧩 Enjoy solving complex problems and automating boring stuff <br>
-💡 Interesr with finance technonolgy and real-world utility of blockchain <br>
+🧠 Learning.new() → Always expanding my tech horizons <br>
+🧩 Problem.solve() → Complex challenges become elegant solutions  <br>
+⚡ Automate.everything() → If it's boring, let's make it automatic <br>
+💡 FinTech.innovate() → Where blockchain meets real-world value <br>
 
 
 <br>
